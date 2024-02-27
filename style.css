@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: darkorange;
+}
+
+.container{
+    width: 100vw;
+    height: 100vh;
+}
+
+.tableTennis{
+    width: 70%;
+}
+
+
+.player1{
+    background-color:greenyellow ;
+    padding: 0.5rem 1rem;
+    border: none;
+    border-radius: 10px;
+}
+
+.player2{
+    background-color:skyblue ;
+    padding: 0.5rem 1rem;
+    border: none;
+    border-radius: 10px;
+}
+
+.reset{
+    background-color: pink;
+    padding: 0.5rem 1rem;
+    border: none;
+    border-radius: 10px;
+}
